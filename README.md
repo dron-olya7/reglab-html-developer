@@ -6,3 +6,5 @@
 Для того чтоб скачать воспользуйтесь командой "git clone https://github.com/dron-olya7/reglab-html-developer.git" или через "<>Code -> download ZIP".
 
 Ни каких подготовительных шагов для запуска не требуется.
+
+Для запуска проекта лучше всего использовать браузер Google Chrome.
